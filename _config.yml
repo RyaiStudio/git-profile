@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+# name: My Git-Profile
+# title: "Hello Fellas"
+# email: ryanpagaduan23@gmail.com
+# baseurl: ""
+# url: ""
+# twitter_username: 
+# github_username: RyaiStudio
+# theme: jekyll-theme-cayman
+
+sass: 
+  sass_dir: _sass
